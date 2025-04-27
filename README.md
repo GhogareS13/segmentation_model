@@ -5,6 +5,7 @@
 This project explores the application of the Meta AI SAM (Segment Anything Model) for Image Segmentation tasks.
 
 What is Image Segmentation?
+
 Image Segmentation is a computer vision technique that divides an image into distinct regions or objects to simplify or change the image's representation, making it more meaningful and easier to analyze.
 Instead of recognizing the entire image as a single unit (like in image classification), segmentation identifies and separates individual objects, boundaries, or regions within the image.
 
@@ -17,9 +18,13 @@ Instance Segmentation: Identifying separate objects individually (e.g., two diff
 ✨ Use Cases of Image Segmentation:
 
 -Medical imaging (detecting tumors)
+
 -Autonomous driving (detecting roads, pedestrians)
+
 -Satellite imagery analysis
+
 -Photo editing (background removal, object cutout)
+
 -Augmented Reality (AR) applications
 
 
@@ -34,6 +39,7 @@ Segmentation_Use_Case.ipynb: Extends segmentation results to a real-world proble
 The project is designed in Google Colab, enabling users to easily explore and adapt it for their own research or applications.
 
 🖼️ Important Note About Images
+
 During execution, you will be required to upload your own images.
 
 Alternatively, you can download sample images provided in the images/ folder of this repository.
@@ -43,26 +49,42 @@ Due to the nature of Google Colab (temporary storage), uploaded images will not 
 👉 Please upload images into an images/ folder manually when running the notebooks.
 
 📦 Technology Stack
+
 -Python
+
 -Google Colab
+
 -PyTorch
+
 -OpenCV
+
 -NumPy
+
 -Matplotlib
+
 -torchvision
+
 -Segment Anything Model (SAM) APIs
 
+
 🔥 How to Run the Project
+
 Clone or fork this repository:
+
 !git clone https://github.com/GhogareS13/segmentation_model.git
+
         OR 
+
 1) Open the .ipynb files in Google Colab using the provided badge or manually.
+
    - click on particular colab notebook
+
    - click "Open in Colab"
 
-2) Upload necessary images (or use sample images from the images/ folder).
 
-3) Run all code cells sequentially.
+3) Upload necessary images (or use sample images from the images/ folder).
+
+4) Run all code cells sequentially.
 
 Follow instructions inside notebooks to see segmentation results and further outputs.
 

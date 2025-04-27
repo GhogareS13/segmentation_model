@@ -4,16 +4,16 @@
 
 This project explores the application of the Meta AI SAM (Segment Anything Model) for Image Segmentation tasks.
 
-What is Image Segmentation?
+*What is Image Segmentation?*
 
 Image Segmentation is a computer vision technique that divides an image into distinct regions or objects to simplify or change the image's representation, making it more meaningful and easier to analyze.
 Instead of recognizing the entire image as a single unit (like in image classification), segmentation identifies and separates individual objects, boundaries, or regions within the image.
 
 *There are two major types:*
 
-Semantic Segmentation: Classifying each pixel into a category (e.g., sky, car, road).
+1) Semantic Segmentation: Classifying each pixel into a category (e.g., sky, car, road).
 
-Instance Segmentation: Identifying separate objects individually (e.g., two different people, two different cars).
+2) Instance Segmentation: Identifying separate objects individually (e.g., two different people, two different cars).
 
 ✨ Use Cases of Image Segmentation:
 
@@ -28,7 +28,7 @@ Instance Segmentation: Identifying separate objects individually (e.g., two diff
 -Augmented Reality (AR) applications
 
 
-In this project:
+*In this project:*
 
 RESEARCH_PROJECT.ipynb: Demonstrates image segmentation using points and bounding boxes as prompts.
 

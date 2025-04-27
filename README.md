@@ -1,5 +1,7 @@
 🖼️ Image Segmentation using Meta AI SAM Model
+
 📝 Project Overview
+
 This project explores the application of the Meta AI SAM (Segment Anything Model) for Image Segmentation tasks.
 
 What is Image Segmentation?

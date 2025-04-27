@@ -9,7 +9,7 @@ What is Image Segmentation?
 Image Segmentation is a computer vision technique that divides an image into distinct regions or objects to simplify or change the image's representation, making it more meaningful and easier to analyze.
 Instead of recognizing the entire image as a single unit (like in image classification), segmentation identifies and separates individual objects, boundaries, or regions within the image.
 
-There are two major types:
+*There are two major types:*
 
 Semantic Segmentation: Classifying each pixel into a category (e.g., sky, car, road).
 
